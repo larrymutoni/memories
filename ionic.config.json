@@ -1,0 +1,7 @@
+{
+  "name": "vueSecond",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
